@@ -4,7 +4,7 @@ import requests  # NEW: 我们现在只使用 requests 库
 import concurrent.futures
 
 
-API_KEY = "你的可以、"
+API_KEY = "你的api"
 
 # CRITICAL: 您的服务API的完整URL
 API_URL = "request的地址，具体可以咨询服务提供方，https开头的"
