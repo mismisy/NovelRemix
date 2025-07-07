@@ -3,7 +3,7 @@ import glob
 
 # --- 配置 ---
 # 合并后输出的文件名
-output_filename = '苟在妖武乱世修仙改.txt'
+output_filename = '某小说改.txt'
 # 每个文件之间的分隔符，\n 代表换行。你可以自定义成任何你想要的格式。
 # 例如：'\n\n----------\n\n' 会在文件之间插入一条分割线
 separator = '\n\n'
