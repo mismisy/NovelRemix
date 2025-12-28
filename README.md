@@ -39,7 +39,7 @@
 1. **找到 `segment.py`**：在解压出来的文件夹里，进入 `format` 文件夹，找到 `segment.py` 这个文件。
 2. **修改 `segment.py`**：
    - 用pycharm打开 `segment.py`。
-   - 找到这一行：`novel_file = "苟在妖武乱世修仙1-1100全本完结.txt"`。
+   - 找到这一行：`novel_file = "某一小说名称.txt"`。
    - **把引号里的书名，改成你自己的小说文件名**，并确保这个小说文件和 `segment.py` 在同一个文件夹里。
    - 保存并关闭文件。
 3. **运行 `segment.py`**：在pycharm运行 `segment.py`。程序会自动创建一个名为 `output` 的文件夹，里面就是切分好的小说章节。
