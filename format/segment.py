@@ -70,5 +70,6 @@ def split_novel_chapters(input_file, output_dir="output"):
 
 # 使用示例
 if __name__ == "__main__":
-    novel_file = "苟在妖武乱世修仙1-1100全本完结.txt"  # 替换为你的小说文件路径
+    novel_file = "某小说名称.txt"  # 替换为你的小说文件路径
     split_novel_chapters(novel_file)
+
